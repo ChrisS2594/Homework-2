@@ -1,0 +1,41 @@
+h2 {
+    font-family: cursive;
+    color:black;
+}
+
+h4 {
+    font-family: sans-serif;
+    Color:black;
+}
+body {
+    background-image: url("assets/images/criss-cross.png"); 
+    width: 100%;
+    
+
+   }
+
+   header {
+       background-color: #ffffff;
+   }
+   footer {       background-color:#666666;
+   }
+
+   .jumbotron{
+    background-color:beige;
+
+   }
+   .message {
+       Height:200px; width:600px;
+       }
+
+ .container {
+     background-color: black;       
+     padding:2px;
+    }
+
+    .navbar-brand {
+        padding: 25px;
+        
+        color: #cccccc;
+
+    }
